@@ -16,8 +16,8 @@ Replace the first row with your own contribution.
 
 -->
 
-| Date # | Contribution (Link)                                                                                 | Type     | Description                    |
-| ------ | :-------------------------------------------------------------------------------------------------- | :------- | :----------------------------- |
-| Feb 24 | [First contributing activity](https://github.com/firstcontributions/first-contributions/pull/47806) | tutorial | added my name to contributors. |
-|        |                                                                                                     |          |                                |
-|        |                                                                                                     |          |                                |
+| Date # | Contribution (Link)                                                                                 | Type        | Description                             |
+| ------ | :-------------------------------------------------------------------------------------------------- | :---------- | :-------------------------------------- |
+| Feb 24 | [First contributing activity](https://github.com/firstcontributions/first-contributions/pull/47806) | tutorial    | added my name to contributors.          |
+| Mar 5  | [Wikipedia Translation](https://ko.wikipedia.org/wiki/%EB%94%9C%EB%B0%94_(Dilbar)                   | Translation | Translated English document into Korean |
+|        |                                                                                                     |             |                                         |
